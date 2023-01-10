@@ -54,7 +54,7 @@ body {
     min-height: 75rem;
     padding-top: 4.5rem;
   }
-  
+
 .navbar {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     top: 0;
@@ -63,3 +63,8 @@ body {
     z-index: 2;
     font-weight: bold;
 }
+
+img {
+  height: auto;
+  max-width: 35%;
+  }
